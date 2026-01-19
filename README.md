@@ -1,4 +1,4 @@
-## Hi, I'm Peter Schenk 👋
+## Hi, I'm Peter 👋
 
 I did my B.Sc. in Computer Science at [Hochschule Landshut](https://www.haw-landshut.de/) and have a strong interest in software engineering and artificial intelligence. I am currently open to new opportunities where I can apply my skills and continue learning.
 
